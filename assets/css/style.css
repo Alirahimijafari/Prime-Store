@@ -294,7 +294,6 @@ a {
 }
 
 .category-title {
-     text-align: center;
      font-size: 25px;
      color: var(--black);
 }
@@ -491,7 +490,8 @@ a {
      }
 
      .category-title-wrapper {
-          margin-block: 3rem;
+          margin-block: 2rem;
+          justify-content: flex-start;
      }
 
      .category-title-wrapper span {
