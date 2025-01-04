@@ -480,7 +480,7 @@ a {
 
      .category-item {
           flex: 0 0 auto;
-          width: 170px;
+          width: 190px;
      }
 
 }
@@ -496,10 +496,6 @@ a {
 
      .category-title-wrapper span {
           display: none;
-     }
-
-     .category-item {
-          width: 190px;
      }
 }
 
